@@ -1,9 +1,12 @@
-<h1 align="center">Hi 👋, I'm Christian Paul Gastardo</h1>
-
-<p align="center">
-  <strong>Full Stack Developer | Angular Specialist | Java Backend Developer</strong><br/>
-  <em>Turning designs into solutions, one line at a time.</em>
-</p>
+<h1 align="center">Hi <span>
+  <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
+</picture>
+</span>, I'm Christian Paul Gastardo</h1>
+<div align="center">
+  <h3>Full Stack Developer | Angular Specialist | Java Backend Developer</h3>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Deca&size=13&letterSpacing=0.2em&duration=5000&pause=3000&color=FFFFFF&center=true&width=435&lines=Turning+designs+into+solutions%2C+one+line+at+a+time." alt="Typing SVG" /></a></div>
 
 <p align="center">
   <a href="https://linkedin.com/in/cgastardo" target="_blank">
@@ -78,7 +81,8 @@
 ## 🔥 Featured Projects
 
 ### 🧪 Laboratory Inventory Management System  
-A full-featured digital assistant for scientific researchers  
+> A full-featured digital assistant for scientific researchers
+
 ✔️ Drag-and-drop custom components  
 ✔️ Chemical structure editor  
 ✔️ Undo/redo, comment system, notifications
@@ -91,6 +95,13 @@ A full-featured digital assistant for scientific researchers
 ✔️ Gantt/Kanban charts  
 ✔️ Real-time chat and comments  
 ✔️ Keycloak + Microsoft SSO authentication
+
+### 🐶 Cat vs Dog Image Classifier  
+> A fun computer vision project using deep learning
+
+✔️ Built with Python + TensorFlow + Keras  
+✔️ Supports live and still image classification  
+✔️ Binary classifier: cat or dog
 
 ---
 
