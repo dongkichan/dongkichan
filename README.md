@@ -112,15 +112,5 @@
 
 ---
 
-## 🤝 Let's Connect
-
-📧 dev.cgastardo@gmail.com 
-
-🔗 [LinkedIn](https://linkedin.com/in/cgastardo)
-
-💼 [Upwork Profile](http://bit.ly/upwork-cgastardo)
-
----
-
 > _“Let your work speak for itself — but don't be afraid to tell the story behind it.”_
 
